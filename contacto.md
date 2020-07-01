@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Sobre
-permalink: /about/
+title: Contacto
+permalink: /contacto/
 ---
 
 Em construção
